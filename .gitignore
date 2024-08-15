@@ -1,6 +1,6 @@
 all/
 source/
 videos/
-urls.js
+urls.mjs
 
 node_modules/
